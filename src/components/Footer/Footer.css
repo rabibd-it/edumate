@@ -1,0 +1,103 @@
+.social a {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  border: 5px solid #0d6efd;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  color: #ffffff;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  margin-right: 10px;
+}
+.social a:hover {
+  border-color: #eee;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.social .facebook {
+  background: #3b5998;
+  color: white;
+}
+.social .twitter {
+  background: #55acee;
+  color: white;
+}
+.social .linkedin {
+  background: #007bb5;
+  color: white;
+}
+.social .instagram {
+  background: #125688;
+  color: white;
+}
+.social a svg {
+  font-size: 30px;
+}
+
+.footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer .widget-title {
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+  position: relative;
+}
+.footer .widget-title:before {
+  background: #0d6efd;
+}
+.footer .widget-title:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  height: 2px;
+  width: 40px;
+  background: #0d6efd;
+}
+
+/* Address Widget */
+.footer .address-widget li {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.footer .address-widget li .desc {
+  padding-left: 20px;
+  color: #ffffff;
+}
+.footer .address-widget li .desc a {
+  text-decoration: none;
+}
+.footer .address-widget li svg {
+  color: #0b5ed7;
+  font-size: 24px;
+}
+
+/*Link Widget */
+.footer .link-widget {
+  display: flex;
+  flex-direction: column;
+}
+.footer .link-widget a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+.footer .link-widget a:hover {
+  color: #0b5ed7;
+}

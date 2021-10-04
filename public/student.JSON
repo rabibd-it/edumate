@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Eyasir Arafat",
+    "image": "https://business.appstate.edu/sites/default/files/styles/asu_news_full/public/asu_news/student-profile-javon-nathaniel.jpg?itok=-KyYkUKf",
+    "rating": "5",
+    "description": "Very straight to point. Very informative with extra knowledge outside of the box. Very systematic and thoroughly organised contents too. Thanks Dennis for this wonderful course. You have never disappointed us."
+  },
+  {
+    "id": 2,
+    "name": "Rubel Alam",
+    "image": "https://3.bp.blogspot.com/-n832VPK5-jo/VzN6ou9kj8I/AAAAAAAACBk/X6YPnjRBr8UfmbVkClfG6jDEc606PWy3wCLcB/s1600/patrick2.jpg",
+    "rating": "3",
+    "description": "This is a fantastic crash course in React. Though I would have liked the instructor to mention briefly about why he makes certain decisions like why make the svg arrow a component and not just keep it as an svg? Just little inputs like that. Other than that this a great introduction to the world of React."
+  },
+  {
+    "id": 3,
+    "name": "Hasan Khan",
+    "image": "https://www.hendrix.edu/assets/0/4153/4277/8bd06a84-7609-415c-bca4-639b8a7e9b16.jpg?width=260",
+    "rating": "4",
+    "description": "I love the way Jonas teaches using real world examples. The diagrams and the theory lessons are great to deeply understand how JS works behind scenes. All the lessons are pretty neat and there's no problem to follow them in order or skipping by the suggested structure at the beginning of every section."
+  },
+  {
+    "id": 4,
+    "name": "Rabeya Khatun",
+    "image": "https://undergrad.phhp.ufl.edu/files/2020/08/Jordan-Kennedy-600x400.jpg",
+    "rating": "5",
+    "description": "Hands down, this is simply the best JavaScript course out there if someone wants to learn JavaScript, not only to code but also to know how it actually works behind. Jonas sir, I simply have no words to describe your teaching, You are one of the best teacher I've met in my life, explained everything in a great detail, lot of times in the course, especially in forkify section my mind was blown away by seeing the knowledge that you have and the way you brought every puzzle pieces together when implementing the MVC architecture, the slides helped a lot to revise the concepts. Thank you so much for sharing your knowledge with us and I will see you soon in your node course for sure. Thanks a lot for this course"
+  },
+  {
+    "id": 5,
+    "name": "Shirin Akter",
+    "image": "https://tecake.com/wp-content/uploads/2018/07/student-profile-gabriela-mills-college.jpg",
+    "rating": "4",
+    "description": "Spectacular course! It was very detailed, I'll keep coming back to refresh! Now, Jonas is one of my favorite instructor and I only have two. You have to be really attentive in this course so it would be easier for you to follow along. I hope he makes more courses with other programming languages! Was this review helpful?"
+  },
+  {
+    "id": 6,
+    "name": "Swapan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVu3nXDXKxyKpyBx9whlEadAprx5eKUSN2Q&usqp=CAU",
+    "rating": "3",
+    "description": "This course was excellent. Jonas is a great teacher who builds concepts on top of each other to make them easily digestible. This course is a deep dive into JavaScript, taking you under the hood so you fully understand how the language works, and why it operates the way it does. However, I ran into problems in the final project using a software called Parcel that I spent days troubleshooting outside of the course. It seems others in the Q&A ran into the same problems. With that said, this course was still everything I was hoping for and I’m definitely looking forward to taking another of Jonas’ courses in the future!"
+  }
+]

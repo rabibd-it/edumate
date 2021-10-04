@@ -1,0 +1,31 @@
+.about .card {
+  min-height: 180px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.about svg {
+  font-size: 50px;
+  color: #0d6efd;
+  margin-bottom: 20px;
+}
+
+/* Student Says */
+.student-says .card {
+  min-height: 300px;
+  flex-direction: column;
+}
+.student-says .card-title {
+  font-size: 25px;
+  color: #0d6efd;
+}
+.student-says .card-img-top {
+  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+}
+.student-says svg {
+  font-size: 16px;
+  color: #fcb903;
+  margin-bottom: 20px;
+}

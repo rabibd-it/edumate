@@ -1,0 +1,36 @@
+.top-banner-bg {
+  background: #f7f8f9 url(../Home/banner.png);
+  background-image: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 600px;
+  height: 100vh;
+}
+.top-banner {
+  min-height: 600px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* courses */
+.courses .card {
+  min-height: 470px;
+}
+.courses svg {
+  margin-right: 5px;
+}
+.courses img {
+  max-height: 200px;
+}
+.courses .price {
+  display: block;
+  text-align: right;
+  color: #0d6efd;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: cursive;
+}
