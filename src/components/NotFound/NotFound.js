@@ -13,8 +13,8 @@ const NotFound = () => {
             <Container>
                 <img
                     src={img}
-                    className="d-inline-block align-top"
-                    alt="Eud Mate"
+                    className="d-inline-block align-top img-fluid"
+                    alt="404"
                 />
                 <h3 className="text-primary mt-3 mb-3">Something <span className="text-danger">Missing</span></h3>
                 <p>The Page You Are Looking For May Have Been Moved, Deleted, Or Possibly Never Existed.</p>
